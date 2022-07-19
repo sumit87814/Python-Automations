@@ -56,5 +56,5 @@ For support, email sumit87814@gmail.com  here.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS,python,MySQL,MongoDB...
+C, Javascript, React.js, HTML, CSS, python, MySQL, MongoDB, machine learning,..
 
